@@ -1,0 +1,26 @@
+# Model Evaluation Metrics
+
+## Issue Classifier
+- Accuracy: TBD
+- Precision: TBD
+- Recall: TBD
+- F1-Score: TBD
+
+## Severity Detector
+- Accuracy: TBD
+- MAE: TBD
+- RMSE: TBD
+
+## Spam Detector
+- Accuracy: TBD
+- False Positive Rate: TBD
+- False Negative Rate: TBD
+
+## Completion Verifier
+- Accuracy: TBD
+- Precision: TBD
+- Recall: TBD
+
+## Priority Predictor
+- Accuracy: TBD
+- R² Score: TBD

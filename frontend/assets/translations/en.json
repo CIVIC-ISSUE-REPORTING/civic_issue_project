@@ -1,0 +1,11 @@
+{
+  "app_name": "Civic Issue Manager",
+  "welcome": "Welcome",
+  "report_issue": "Report Issue",
+  "my_issues": "My Issues",
+  "notifications": "Notifications",
+  "login": "Login",
+  "logout": "Logout",
+  "submit": "Submit",
+  "cancel": "Cancel"
+}
